@@ -1,9 +1,7 @@
-package nivel32;
-
-import java.util.InputMismatchException;
+package nivel33;
 
 public class FallingConstructor {
-
+	
 	int[] array = {0, 1, 2, 3, 4, 5};
 	
 	
@@ -14,7 +12,5 @@ public class FallingConstructor {
 	public FallingConstructor() {
 		getValor(20);
 	}
-	
-	
 
 }
