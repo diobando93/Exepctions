@@ -9,9 +9,7 @@ public class myExceptions  {
 			
 			g();
 			
-		} catch (ArrayIndexOutOfBoundsException e){
-			
-			System.out.println(e.getMessage());
+		} catch (RuntimeException e){
 			
 		}
 		
